@@ -1,0 +1,129 @@
+/* General Styling */
+.hero-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 6rem 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Hero Content */
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14rem;
+    text-align: center;
+    padding: 2rem 2rem -2rem -2rem;
+  }
+  
+  @media (min-width: 768px) {
+    .hero-content {
+      flex-direction: row;
+      justify-content: space-between;
+      text-align: left;
+    }
+  }
+  
+  /* Text Section */
+  .hero-text {
+    max-width: 2000px;
+    flex: 1;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #e0e0e0;
+  }
+  
+  .hero-highlight {
+    color: #a855f7;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #b3b3b3;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+    color: #ccc;
+    margin-top: 1rem;
+    line-height: 1.6;
+  }
+  
+  /* Profile Section */
+  .profile-container {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+  }
+  
+  .profile-pic {
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  }
+  
+  @media (min-width: 768px) {
+    .profile-pic {
+      width: 350px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .profile-pic {
+      width: 400px;
+    }
+  }
+  
+  /* Buttons */
+  .hero-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  @media (min-width: 768px) {
+    .hero-buttons {
+      flex-direction: row;
+    }
+  }
+  
+  .download-btn {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 2px solid #a855f7;
+    color: #e0e0e0;
+    background: transparent;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .download-btn:hover {
+    background-color: #a855f7;
+    color: #fff;
+    transform: scale(1.05);
+  }
+  
+  /* Social Icons */
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 2rem;
+    color: #a855f7;
+  }
+  
+  .social-icons a:hover {
+    transform: scale(1.2);
+  }
+  
