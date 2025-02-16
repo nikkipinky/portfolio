@@ -40,9 +40,9 @@ const Navbar = () => {
 
             <ul className='hidden md:flex gap-12 z-10 cursor-pointer'>
                 
-                <li><Link to="hero" smooth={true} offset={50} duration={500}>About</Link></li>
-                <li><Link to="portfolio" smooth={true} offset={50} duration={500}>Projects</Link></li>
-                <li><Link to="experience" smooth={true} offset={50} duration={500}>Experience</Link></li>
+                <li><Link to="hero" smooth={true} offset={-100} duration={500}>About</Link></li>
+                <li><Link to="portfolio" smooth={true} offset={-100} duration={500}>Projects</Link></li>
+                <li><Link to="experience" smooth={true} offset={-100} duration={500}>Experience</Link></li>
             </ul>
 
             <div onClick={toggleNav} className='md:hidden z-50 text-gray-200'>
