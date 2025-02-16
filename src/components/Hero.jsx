@@ -202,7 +202,7 @@ const Hero = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <p className="text-purple-400 text-lg md:text-xl font-bold mb-4">
+              <p className="text-purple-400 text-lg md:text-xl font-bold mb-4 text-center">
                 {category.title}
               </p>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-gray-300">
