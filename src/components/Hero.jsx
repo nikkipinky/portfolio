@@ -165,7 +165,7 @@ const Hero = () => {
 
           <div className="hero-buttons">
             <motion.button whileHover={{ scale: 1.05 }} className="download-btn">
-              <a href="/resume.pdf" download="Sai_Nikhitha_Madireddy_Resume.pdf">Download CV</a>
+              <a href="/Sai_Nikhitha_Madireddy_Resume.pdf" download="Sai_Nikhitha_Madireddy_Resume.pdf">Download CV</a>
             </motion.button>
 
             <div className="social-icons">
