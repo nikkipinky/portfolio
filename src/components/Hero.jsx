@@ -159,8 +159,8 @@ const Hero = () => {
           </div>
 
           <p className="hero-description">
-            Crafting high-quality, scalable applications by blending full-stack 
-            development, machine learning expertise, and optimized database solutions.
+          Crafting high-quality, scalable applications by blending <span>full&#8209;stack </span>
+          development, machine learning expertise, and optimized database solutions.
           </p>
 
           <div className="hero-buttons">

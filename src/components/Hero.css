@@ -57,6 +57,11 @@
     margin-top: 1rem;
     line-height: 1.6;
   }
+  .hero-description span {
+    white-space: nowrap;
+    color: inherit;
+}
+
   
   /* Profile Section */
   .profile-container {
