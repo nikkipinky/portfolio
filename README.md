@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Sai Nikhitha Madireddy
-🚀 **Full-Stack Developer | Machine Learning Enthusiast | Cloud Engineer**  
+🚀 **Full-Stack Developer | Machine Learning Enthusiast | Software Engineer**  
 
 🔹 Passionate about building **scalable applications** with modern technologies.  
 🔹 Experienced in **backend, frontend, and database optimization** for high-performance applications.  
