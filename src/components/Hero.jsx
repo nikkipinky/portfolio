@@ -169,9 +169,9 @@ const Hero = () => {
             </motion.button>
 
             <div className="social-icons">
-              <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/nikkipinky"><AiOutlineGithub /></motion.a>
-              <motion.a whileHover={{ scale: 1.2 }} href="https://www.linkedin.com/in/sai-nikhitha-madireddy/"><AiOutlineLinkedin /></motion.a>
-              <motion.a whileHover={{ scale: 1.2 }} href="mailto:sainikhithamadireddy2506@gmail.com"><AiOutlineMail /></motion.a>
+              <motion.a whileHover={{ scale: 1.2 }} href="https://github.com/nikkipinky" target="_blank"><AiOutlineGithub /></motion.a>
+              <motion.a whileHover={{ scale: 1.2 }} href="https://www.linkedin.com/in/sai-nikhitha-madireddy/" target="_blank"><AiOutlineLinkedin /></motion.a>
+              <motion.a whileHover={{ scale: 1.2 }} href="mailto:sainikhithamadireddy2506@gmail.com" target="_blank"><AiOutlineMail /></motion.a>
             </div>
           </div>
         </motion.div>
