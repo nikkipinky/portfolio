@@ -12,12 +12,12 @@ const getImageUrl = (path) => path;
 const experiences = [
   {
     organisation: 'California State University, Los Angeles',
-    role: 'Graduate Student Assistant',
+    role: 'Software Engineer',
     startDate: 'Oct 2023',
-    endDate: 'Present',
+    endDate: 'May 2025',
     imageSrc: CustomIcon1,
     experiences: [
-      'Resolved ServiceNow tickets with a 95% success rate, providing technical support for software, hardware, and network issues. Optimized IT workflows, reducing ticket resolution time by 30% and enhancing web services performance by 40% while ensuring security compliance.',
+      'Collaborated with the ITS department to develop, test, and support university software services and applications used by students, faculty. Diagnosed and resolved software, hardware, and network issues through ServiceNow, providing technical support for various services such as Adobe Sign, DUO 2-Step Verification, Zoom, Teams, and VPN. Assisted in maintaining system security and improving service performance, ensuring reliable IT experiences across the university.',
     ],
   },
   {
