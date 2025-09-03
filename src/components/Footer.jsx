@@ -20,7 +20,7 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      <p className="text-gray-400">@2024 Sai Nikhitha Madireddy</p>
+      <p className="text-gray-400">@2025 Sai Nikhitha Madireddy</p>
     </div>
   );
 };
