@@ -5,7 +5,7 @@ import CustomIcon1 from '../assets/custom-icon-1.png'; // Replace with your cust
 import CustomIcon2 from '../assets/custom-icon-2.webp';
 import CustomIcon3 from '../assets/custom-icon-3.png';
 import CustomIcon4 from '../assets/custom-icon-4.jpeg';
-import CustomIcon5 from '../assets/custom-icon-5.jpeg';
+import CustomIcon5 from '../assets/custom-icon-5.jpg';
 
 // Mock function to simulate getImageUrl (replace with your actual implementation)
 const getImageUrl = (path) => path;
