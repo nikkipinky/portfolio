@@ -5,6 +5,7 @@ import CustomIcon1 from '../assets/custom-icon-1.png'; // Replace with your cust
 import CustomIcon2 from '../assets/custom-icon-2.webp';
 import CustomIcon3 from '../assets/custom-icon-3.png';
 import CustomIcon4 from '../assets/custom-icon-4.jpeg';
+import CustomIcon5 from '../assets/custom-icon-5.jpeg';
 
 // Mock function to simulate getImageUrl (replace with your actual implementation)
 const getImageUrl = (path) => path;
@@ -15,7 +16,7 @@ const experiences = [
     role: 'Software Engineer',
     startDate: 'Aug 2025',
     endDate: 'Present',
-    imageSrc: CustomIcon1,
+    imageSrc: CustomIcon5,
     experiences: [
       'Gathered user requirements, defined system functionality, and developed software using Java, Ruby on Rails, .NET (C++, JScript.NET), and other technologies. Executed full SDLC, from design and coding to testing, deployment, and documentation, ensuring high-quality, functional systems. Debugged, upgraded, and maintained applications while integrating user feedback and adhering to industry standards.',
     ],
