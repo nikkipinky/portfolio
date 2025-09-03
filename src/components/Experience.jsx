@@ -11,6 +11,16 @@ const getImageUrl = (path) => path;
 
 const experiences = [
   {
+    organisation: 'Community Dreams Foundation',
+    role: 'Software Engineer',
+    startDate: 'Aug 2025',
+    endDate: 'Present',
+    imageSrc: CustomIcon1,
+    experiences: [
+      'Gathered user requirements, defined system functionality, and developed software using Java, Ruby on Rails, .NET (C++, JScript.NET), and other technologies. Executed full SDLC, from design and coding to testing, deployment, and documentation, ensuring high-quality, functional systems. Debugged, upgraded, and maintained applications while integrating user feedback and adhering to industry standards.',
+    ],
+  },
+  {
     organisation: 'California State University, Los Angeles',
     role: 'Graduate Student Assistant',
     startDate: 'Oct 2023',
