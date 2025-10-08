@@ -23,12 +23,12 @@ const experiences = [
   },
   {
     organisation: 'California State University, Los Angeles',
-    role: 'Graduate Student Assistant',
-    startDate: 'Oct 2023',
+    role: 'Software Engineer',
+    startDate: 'Aug 2023',
     endDate: 'May 2025',
     imageSrc: CustomIcon1,
     experiences: [
-      'Achieved a 95% success rate in resolving ServiceNow tickets, delivering technical support for software, hardware, and network issues. Optimized IT workflows, reducing ticket resolution time by 30% and improving web services performance by 40%. Ensured security compliance while enhancing system efficiency and user satisfaction.',
+      'Engineered and optimized ServiceNow workflows and web applications to enhance automation and system performance by 40%. Developed and deployed internal software tools that streamlined IT operations, reducing issue resolution time by 30% and improving user efficiency. Collaborated on debugging, testing, and performance tuning to maintain secure, reliable, and scalable systems with a 95% issue resolution success rate.',
     ],
   },
   {
@@ -53,7 +53,7 @@ const experiences = [
   },
   {
     organisation: 'Virtusa Consulting Services Private Limited',
-    role: 'Software Engineer Intern',
+    role: 'Software Engineer',
     startDate: 'Aug 2021',
     endDate: 'Dec 2021',
     imageSrc: CustomIcon4,
