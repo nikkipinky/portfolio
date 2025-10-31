@@ -18,7 +18,7 @@ const experiences = [
     endDate: 'Present',
     imageSrc: CustomIcon5,
     experiences: [
-      'Developed and defined system functionality by improving the clarity and scope of project definitions by 20%. Executed the full Software Development Life Cycle ensuring adherence to industry standards. Collaborated with teams to debug, upgrade, and maintain applications while integrating essential user feedback. Deployed robust software  solutions using Java, C++, and JavaScript, handling end-to-end development and maintenance in a large-scale system.',
+      'Architected and Deployed modular services in Java and Node.js, reducing system latency by 35% and improving maintainability. Led Agile sprints and collaborated with cross-functional teams to define requirements, cutting change requests by 20%. Automated debugging and upgrade pipelines, lowering production downtime by 25% and improving release stability. Integrated user feedback loops into release cycles, increasing post-deployment feature adoption by 15%.',
     ],
   },
   {
@@ -28,7 +28,7 @@ const experiences = [
     endDate: 'May 2025',
     imageSrc: CustomIcon1,
     experiences: [
-      'Engineered and optimized ServiceNow workflows and web applications, enhancing system performance by 40%. Developed and deployed internal software tools that streamlined IT operations, reducing issue resolution time and improving user efficiency. Collaborated on debugging, testing, and performance tuning to maintain secure, reliable, and scalable systems. Managed system security and scalability protocols, achieving 99.9% uptime and reliability across the entire university IT system.',
+      'Optimized ServiceNow workflows and internal web apps, improving IT ticket resolution time by 40%. Built and deployed CI/CD pipelines and automated testing frameworks, cutting manual deployment errors by 60%. Implemented API-level security, system monitoring, and 99.9% uptime, ensuring compliance with campus standards. Collaborated with academic departments to streamline tech solutions supporting 10,000+ student and faculty interactions.',
     ],
   },
   {
@@ -38,7 +38,7 @@ const experiences = [
     endDate: 'Aug 2023',
     imageSrc: CustomIcon2,
     experiences: [
-      'Built a full-stack web application with Node.js, ensuring cross-platform compatibility and reaching base of 500+ daily users. Enhanced database performance by 30% by meticulously tuning queries and schemas using PostgreSQL and Oracle SQL. Collaborated with teams to improve functionality and user experience, resulting in a 10% increase in user engagement metrics. Deployed the full-stack application and managed its infrastructure on Microsoft Azure, ensuring high availability and seamless cross-platform functionality.',
+      'Developed and launched a web platform (Node.js + PostgreSQL + Azure) serving 500+ daily users with 99.9% uptime. Optimized SQL queries and database schema, improving data retrieval performance by 30% and enhancing backend scalability. Implemented automated CI/CD pipelines in Azure DevOps, increasing deployment efficiency by 50% and reducing errors. Partnered with UI/UX teams to refine product interfaces, achieving a 10% increase in user engagement',
     ],
   },
   {
@@ -48,7 +48,7 @@ const experiences = [
     endDate: 'June 2022',
     imageSrc: CustomIcon3,
     experiences: [
-      'Developed scalable software using Python, Java, Node.js, enhancing overall application performance and user experience (UX). Managed database optimization and maintainability through the use of MySQL, supporting the development lifecycle. Utilized Agile workflows with Git and MySQL for version control and database management, ensuring high-quality applications.',
+      ' Developed and optimized backend APIs using Python and Node.js, improving data throughput by 20%. Redesigned MySQL schema and indexing for better performance and scalability during product growth. Utilized Agile and Git-based workflows for iterative delivery, ensuring version integrity and fast feature rollouts.',
     ],
   },
   {
@@ -58,7 +58,7 @@ const experiences = [
     endDate: 'Dec 2021',
     imageSrc: CustomIcon4,
     experiences: [
-      'Created optimized software with Python, Java, and JavaScript, focusing on debugging, and advanced problem-solving. Delivered high-quality solutions, ensuring 100% efficient completion through experienced execution of all SDLC phases. Executed end-to-end development in an Agile environment, applying expertise in Python and Java to deliver efficient solutions.',
+      'Developed and deployed RESTful services using Python and Java for enterprise analytics dashboards. Led debugging and performance optimization sessions, cutting load times by 35%. Enhanced CI/CD and deployment process to improve integration efficiency across microservices. Conducted code reviews and maintained detailed documentation, ensuring knowledge continuity across sprints.',
     ],
   },
 ];
